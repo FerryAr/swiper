@@ -39,7 +39,7 @@ import {
   PaginationOptions,
   ScrollbarOptions,
   VirtualOptions,
-} from 'swiper/types';
+} from 'src/types/index.js';
 import { isPlatformBrowser } from '@angular/common';
 @Component({
   selector: 'swiper, [swiper]',
